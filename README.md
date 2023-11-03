@@ -8,7 +8,7 @@ Now you will put your new skills to use with a large end-of-Phase project! This 
 
 ## Project Overview
 
-For this project, you will use exploratory data analysis to generate insights for a business stakeholder.
+This projects examines the motion picture industry, which incorporates a wide range of genres. Every year, a number of studios attempt to gain a piece of the motion picture entertainment market by releasing these films. Microsoft can use this analysis to be able to know how to enter the motion picture industry
 
 ### Business Problem
 
