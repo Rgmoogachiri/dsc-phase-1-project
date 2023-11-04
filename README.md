@@ -23,12 +23,16 @@ This project uses descriptive analysis and a lot of data visualization such as b
 
 ### Results
 
+- From my findings, I found the best movie genres for the domestic and foreign markets. We also see the best genre for the combined audience, this can be used for big blockbuster movies. 
+- The studios with the best revenue returns in both the domestic and foreign markets. We also see the studios with the best revenue returns in terms of the combined markets.
+- As the years progress the number we see a trend in the number of votes by year for the movies. We see  number of votes keeps decreasing since 2010, this may be caused by different factors such as audience perceiving new movies not as good as the old ones
+
 ### Conclusions
 
 - The ten most popular genres of movies for both the market audience.
 - The genres with the highest total revenue globally. This is the total revenue of both the domestic gross and foreign gross. This factors in both audiences and can be used for big box bluster movies
 - The genres with the highest domestic gross may vary different to total revenue and foreign gross of the genre due to the preference of the domestic audience
-- The genres with the highest foreign gross may vary different to the domestic revenue of the genre due to the preference of the foreign audience for the domestic audience:
+- The genres with the highest foreign gross may vary differently to the domestic revenue of the genre due to the preference of the foreign audience for the domestic audience:
 - The top ten studios with the best total revenue. These are the best-performing studios when it comes to making movies that will bring high revenue to the market at large.
 - Studios with the best revenue, domestic and foreign. These are the best-performing studios in their respective markets. The studio may vary with the different audiences, these been domestic and foreign
 
@@ -40,6 +44,6 @@ This project uses descriptive analysis and a lot of data visualization such as b
 - **Most popular movie genres for their online streaming services:** This will help Microsoft Studios break into the online streaming markets. They should focus more on providing movies based on drama followed by comedy, drama, and romance genres. This would help them get more subscribers.
 - **Collaboration with other studios:** When collaborating with other studios for the market at large for things such as crossovers, the recommended studio is P/DW followed by BV. This will not only bring more revenue for them but also exposure and revenue for the other studios. In terms of the respective markets, domestic and foreign. Microsoft can collaborate with the respective studios to perform best.
 
-## Summary
-
-This project will give you a valuable opportunity to develop your data science skills using real-world data. The end-of-phase projects are a critical part of the program because they give you a chance to bring together all the skills you've learned, apply them to realistic projects for a business stakeholder, practice communication skills, and get feedback to help you improve. You've got this!
+## For More Information
+See the full analysis in the [Jupyter Notebook] [Jupyter Notebook](./student.ipynb) or review this[presentation]()
+For additional info, contact Richard Gcahiri Muriithi at [richard.muriithi@student.moringaschool.com](richard.muriithi@student.moringaschool.com)
