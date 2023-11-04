@@ -1,5 +1,5 @@
 # Microsoft Studio Analysis 
-# Author: Richard Gachiri Muriithi
+#### Author: Richard Gachiri Muriithi
 
 ## Project Overview
 
