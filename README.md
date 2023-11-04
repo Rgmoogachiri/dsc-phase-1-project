@@ -46,4 +46,5 @@ This project uses descriptive analysis and a lot of data visualization such as b
 
 ## For More Information
 See the full analysis in the [Jupyter Notebook](./student.ipynb) or review this [presentation](./Microsoft_Studio_Analysis_Presentation.pdf)
+
 For additional info, contact Richard Gcahiri Muriithi at [richard.muriithi@student.moringaschool.com](richard.muriithi@student.moringaschool.com)
