@@ -25,7 +25,7 @@ This project uses descriptive analysis and a lot of data visualization such as b
 
 - From my findings, I found the best movie genres for the domestic and foreign markets. We also see the best genre for the combined audience, this can be used for big blockbuster movies. 
 - The studios with the best revenue returns in both the domestic and foreign markets. We also see the studios with the best revenue returns in terms of the combined markets.
-- As the years progress the number we see a trend in the number of votes by year for the movies. We see  number of votes keeps decreasing since 2010, this may be caused by different factors such as audience perceiving new movies not as good as the old ones
+- As the years progress the number we see a trend in the number of votes by year for the movies. We see  the number of votes keeps decreasing since 2010, this may be caused by different factors such as the audience perceiving new movies as not as good as the old ones
 
 ### Conclusions
 
