@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-This projects examines the motion picture industry, which incorporates a wide range of genres. Every year, a number of studios attempt to gain a piece of the motion picture entertainment market by releasing these films. Microsoft can use this analysis to be able to know how to enter the motion picture industry
+This project examines the motion picture industry, which incorporates a wide range of genres. Every year, a number of studios attempt to gain a piece of the motion picture entertainment market by releasing these films. Microsoft can use this analysis to be able to know how to enter the motion picture industry
 
 ### Business Problem
 
@@ -11,49 +11,33 @@ Microsoft sees all the big companies creating original video content and they wa
 
 ### The Data
 
-In the folder `zippedData` are movie datasets from:
-
-* [Box Office Mojo](https://www.boxofficemojo.com/)
-* [IMDB](https://www.imdb.com/)
-* [Rotten Tomatoes](https://www.rottentomatoes.com/)
-* [TheMovieDB](https://www.themoviedb.org/)
-* [The Numbers](https://www.the-numbers.com/)
-
-It is up to you to decide what data from this to use and how to use it. If you want to make this more challenging, you can scrape websites or make API calls to get additional data. If you are feeling overwhelmed or behind (e.g. struggled with the Phase 1 Code Challenge), we recommend you use only the following data files:
-
+In the folder Data are movie datasets from:
 * imdb.title.basics
 * imdb.title.ratings
 * bom.movie_gross
+The data files provide the types of genres, domestic gross, foreign gross, movie titles, the runtime of the movies, average ratings, and the number of votes for each move.
 
-## Deliverables
+## Methods
+This project uses descriptive analysis and a lot of data visualization such as bar graphs and scatter plots to know the best genres and movie studios. 
 
-There are three deliverables for this project:
+### Results
 
-* A **GitHub repository**
-* A **Jupyter Notebook**
-* A **non-technical presentation**
+### Conclusions
 
-Review the "Project Submission & Review" page in the "Milestones Instructions" topic for instructions on creating and submitting your deliverables. Refer to the rubric associated with this assignment for specifications describing high-quality deliverables.
+- The ten most popular genres of movies for both the market audience.
+- The genres with the highest total revenue globally. This is the total revenue of both the domestic gross and foreign gross. This factors in both audiences and can be used for big box bluster movies
+- The genres with the highest domestic gross may vary different to total revenue and foreign gross of the genre due to the preference of the domestic audience
+- The genres with the highest foreign gross may vary different to the domestic revenue of the genre due to the preference of the foreign audience for the domestic audience:
+- The top ten studios with the best total revenue. These are the best-performing studios when it comes to making movies that will bring high revenue to the market at large.
+- Studios with the best revenue, domestic and foreign. These are the best-performing studios in their respective markets. The studio may vary with the different audiences, these been domestic and foreign
 
-### Key Points
+### Recommendations
 
-* **Your analysis should yield three concrete business recommendations.** The ultimate purpose of exploratory analysis is not just to learn about the data, but to help an organization perform better. Explicitly relate your findings to business needs by recommending actions that you think the business (Microsoft) should take.
-
-* **Communicating about your work well is extremely important.** Your ability to provide value to an organization - or to land a job there - is directly reliant on your ability to communicate with them about what you have done and why it is valuable. Create a storyline your audience (the head of Microsoft's new movie studio) can follow by walking them through the steps of your process, highlighting the most important points and skipping over the rest.
-
-* **Use plenty of visualizations.** Visualizations are invaluable for exploring your data and making your findings accessible to a non-technical audience. Spotlight visuals in your presentation, but only ones that relate directly to your recommendations. Simple visuals are usually best (e.g. bar charts and line graphs), and don't forget to format them well (e.g. labels, titles).
-
-## Getting Started
-
-Please start by reviewing this assignment, the rubric at the bottom of it, and the "Project Submission & Review" page. If you have any questions, please ask your instructor ASAP.
-
-Next, we recommend you check out [the Phase 1 Project Templates and Examples repo](https://github.com/learn-co-curriculum/dsc-project-template) and use the MVP template for your project.
-
-Alternatively, you can fork [the Phase 1 Project Repository](https://github.com/learn-co-curriculum/dsc-phase-1-project), clone it locally, and work in the `student.ipynb` file. Make sure to also add and commit a PDF of your presentation to your repository with a file name of `presentation.pdf`.
-
-## Project Submission and Review
-
-Review the "Project Submission & Review" page in the "Milestones Instructions" topic to learn how to submit your project and how it will be reviewed. Your project must pass review for you to progress to the next Phase.
+- **For the domestic audience:** Microsoft should focus more on producing Sci-Fi since it brings the most revenue to the domestic audience followed by Adventure,Drama,Sport.
+- **For foreign audiences:** Microsoft should focus more on producing Adventure, Drama, and Sports followed by Adventure and fantasy to yield more revenue for them in the long run.
+- **For the market at large:** In terms of both markets, this will be useful in creating big movies that both audiences enjoy. They should focus more on Adventure, Drama, Sport followed by Sci-Fi movies.
+- **Most popular movie genres for their online streaming services:** This will help Microsoft Studios break into the online streaming markets. They should focus more on providing movies based on drama followed by comedy, drama, and romance genres. This would help them get more subscribers.
+- **Collaboration with other studios:** When collaborating with other studios for the market at large for things such as crossovers, the recommended studio is P/DW followed by BV. This will not only bring more revenue for them but also exposure and revenue for the other studios. In terms of the respective markets, domestic and foreign. Microsoft can collaborate with the respective studios to perform best.
 
 ## Summary
 
