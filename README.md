@@ -45,5 +45,5 @@ This project uses descriptive analysis and a lot of data visualization such as b
 - **Collaboration with other studios:** When collaborating with other studios for the market at large for things such as crossovers, the recommended studio is P/DW followed by BV. This will not only bring more revenue for them but also exposure and revenue for the other studios. In terms of the respective markets, domestic and foreign. Microsoft can collaborate with the respective studios to perform best.
 
 ## For More Information
-See the full analysis in the [Jupyter Notebook] [Jupyter Notebook](./student.ipynb) or review this[presentation]()
+See the full analysis in the [Jupyter Notebook] [Jupyter Notebook](./student.ipynb) or review this [presentation](./Microsoft Studio Analysis Presentation (Richard Gachiri).pdf)
 For additional info, contact Richard Gcahiri Muriithi at [richard.muriithi@student.moringaschool.com](richard.muriithi@student.moringaschool.com)
