@@ -1,6 +1,6 @@
 # Microsoft Studio Analysis 
 #### Author: Richard Gachiri Muriithi
-
+![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project/master/awesome.gif)
 ## Project Overview
 
 This project examines the motion picture industry, which incorporates a wide range of genres. Every year, a number of studios attempt to gain a piece of the motion picture entertainment market by releasing these films. Microsoft can use this analysis to be able to know how to enter the motion picture industry
