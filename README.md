@@ -15,6 +15,7 @@ In the folder Data are movie datasets from:
 * imdb.title.basics
 * imdb.title.ratings
 * bom.movie_gross
+
 The data files provide the types of genres, domestic gross, foreign gross, movie titles, the runtime of the movies, average ratings, and the number of votes for each move.
 
 ## Methods
